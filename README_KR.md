@@ -169,7 +169,7 @@ pip install customtkinter
 
 ### 5.1 Demo Video
 
-[![Demo Video](https://img.shields.io/badge/YouTube-Demo_Video-red?style=for-the-badge&logo=youtube)](https://youtu.be/PLACEHOLDER)
+[![Demo Video](https://img.shields.io/badge/YouTube-Demo_Video-red?style=for-the-badge&logo=youtube)](https://youtu.be/ntVf8tTPNJ0)
 
 ### 5.2 How to Start & Run
 
