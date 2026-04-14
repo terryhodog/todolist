@@ -47,23 +47,21 @@ Sprint 2: Focus timer, custom time slots, UI refinement
 Sprint 3: i18n system (ZH/ZH-TW/EN/KR), packaging & documentation
 ```
 
-### 2.2 Roles & Responsibilities
+### 2.2 Roles & Responsibilities (33.3% Each)
 
-| Member | Role | Primary Responsibilities | Contribution |
-|--------|------|--------------------------|--------------|
-| Member A | Product Owner / Full-stack | Requirements definition, core architecture, timetable module | 30% |
-| Member B | Frontend Developer | UI/UX design, customtkinter components, dark theme implementation | 25% |
-| Member C | Backend Developer | JSON persistence layer, i18n multilingual system | 25% |
-| Member D | QA / Documentation | Test case authoring, PyInstaller packaging, README documentation | 20% |
+| Member | Domain | Core Tasks |
+| :--- | :--- | :--- |
+| **Member A** | **Core Architecture** | Responsible for JSON data persistence, navigation framework, and the timetable grid rendering algorithm. |
+| **Member B** | **Business Logic** | Responsible for the Memo module, DDL urgency calculation algorithm, and i18n localization mapping. |
+| **Member C** | **Components & DevOps** | Responsible for the Focus Timer, settings window, UI aesthetics, and cross-platform packaging/release. |
 
-### 2.3 Project Schedule
+### 2.3 Project Schedule (3-Week Sprint)
 
-| Sprint | Duration | Deliverables | Effort (Person-Days) |
-|--------|----------|--------------|----------------------|
-| Sprint 1 | Week 1–2 | Main layout framework, timetable CRUD, memo CRUD | 14 |
-| Sprint 2 | Week 3–4 | Pomodoro timer (custom duration), time slot settings popup, DDL urgency highlighting | 12 |
-| Sprint 3 | Week 5–6 | Four-language i18n live switching, PyInstaller packaging, documentation & demo video | 10 |
-| **Total** | **6 Weeks** | **Complete deliverable product** | **36** |
+| Phase | Period | Deliverables |
+| :--- | :--- | :--- |
+| **Sprint 1** | Week 1 | **Foundations**: Data model definition, i18n architecture, navigation bar, and local JSON I/O logic. |
+| **Sprint 2** | Week 2 | **Feature Development**: Timetable dynamic rendering, memo sorting logic, and focus timer core. |
+| **Sprint 3** | Week 3 | **Optimization**: Full UI polish, localization testing, bug fixing, and final EXE packaging. |
 
 ### 2.4 Core Algorithm
 
