@@ -6,7 +6,10 @@
 
 ## Graphical Abstract
 
-![Graphical Abstract](./docs/abstract.png)
+![Graphical Abstract](./docs/Timetable.png)
+![Graphical Abstract](./docs/Memos.png)
+![Graphical Abstract](./docs/Focus.png)
+
 
 ---
 
