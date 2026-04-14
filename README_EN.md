@@ -92,12 +92,11 @@ Course cards are positioned via `grid(row=start_period, column=day_of_week, rows
 
 ### 2.5 Current Status
 
-- [x] Timetable (7×12 visual grid with add/delete)
-- [x] Memos (priority sorting, DDL urgency highlighting, add/delete)
-- [x] Focus Timer (custom duration, start/pause/reset)
-- [x] Custom Time Slots (popup settings, persistent storage)
-- [x] Multilingual Support (简体中文 / 繁體中文 / English / 한국어)
-- [x] PyInstaller Desktop Packaging (Windows .exe)
+📅 Smart Timetable Rendering: Supports a 7×12 grid with automatic rowspan calculation for multi-period courses, ensuring a smooth, non-overlapping interface.
+🚨 Intelligent Alert Memo: Features a unique Priority-DDL weighting algorithm that triggers a deep red alert for overdue or upcoming urgent tasks.
+⏳ Immersive Pomodoro Timer: Integrated countdown system with customizable durations, tailored for high-intensity study sessions or exam preparation.
+🌍 Internationalization (i18n): Built-in mapping engine for 4 languages, enabling seamless, real-time UI text switching without data loss.
+🔐 Privacy Protection: A 100% local persistence solution based on campus_data.json; no data is uploaded to the cloud, ensuring total user privacy
 
 ### 2.6 Future Plan
 
