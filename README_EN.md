@@ -47,7 +47,7 @@ Sprint 2: Focus timer, custom time slots, UI refinement
 Sprint 3: i18n system (ZH/ZH-TW/EN/KR), packaging & documentation
 ```
 
-### 2.2 Roles & Responsibilities (33.3% Each)
+### 2.2 Roles & Responsibilities 
 
 | Member | Domain | Core Tasks |
 | :--- | :--- | :--- |
